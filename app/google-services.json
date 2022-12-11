@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827666200887",
+    "project_id": "chartappfire",
+    "storage_bucket": "chartappfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827666200887:android:89ca03144203f3beb982b2",
+        "android_client_info": {
+          "package_name": "com.example.chartappfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827666200887-0tl438i867akblr13rkfvkqnodb8m3bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nc0EnmQelwtcS56whRZ7l39eLY3SaPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827666200887-0tl438i867akblr13rkfvkqnodb8m3bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
